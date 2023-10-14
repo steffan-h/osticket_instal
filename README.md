@@ -28,7 +28,7 @@ This section outlines the prerequisites and installation of the open-source help
 
 <h2>Installation Steps</h2>
 <p>
-  After setting up the virtual machine, go to Windows Features and install/enable <b>IIS with CGI</b>, <b>Common HTTP Features</b>, and <b>IIS Management Console</b>.
+  After setting up and logging into the virtual machine, go to Windows Features and install/enable <b>IIS with CGI</b>, <b>Common HTTP Features</b>, and <b>IIS Management Console</b>.
 </p>
 
 ![image](https://github.com/steffan-h/osticket_instal/assets/146549173/6285cdc6-d019-477d-9410-6e6092c5eaee)
